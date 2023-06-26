@@ -2,7 +2,9 @@
 <h2 align="center">Fetch and Care: A Pet Sitter Finder
 
 <h3> SDG </h3> <i class="fa-solid fa-1"></i>
-The SDGs which this project aims to attain are No Poverty,Good Health and Well-Being, Sustainable Cities And Communities and Responsible Consumption and Production. These SDGs are further described as follows:
+
+<p align=justify> &nbsp;&nbsp;&nbsp;&nbsp; The SDGs which this project aims to attain are No Poverty,Good Health and Well-Being, Sustainable Cities And Communities and Responsible Consumption and Production. These SDGs are further described as follows:
+
 <h3>Goal 1: No Poverty</h3> <i class="fa-solid fa-1"></i>
 
 ![30f66bcbb41c7](https://github.com/yanishiii/Fetch-and-Care-A-Pet-Sitter-Finder-in-Ibaan-Batangas/assets/91609880/92b66583-480c-45e9-9a55-2a71405aabb7)
@@ -18,3 +20,5 @@ The SDGs which this project aims to attain are No Poverty,Good Health and Well-B
 <h3>Goal 12: Responsible Consumption And Production</h3> <i class="fa-solid fa-1"></i>
 
 ![sdg 12 grande en](https://github.com/yanishiii/Fetch-and-Care-A-Pet-Sitter-Finder-in-Ibaan-Batangas/assets/91609880/24dcba90-0a00-4fb4-89c4-3757afa25542)
+
+ <h3> Purpose and Description </h3> <i class="fa-solid fa-1"></i>

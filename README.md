@@ -35,15 +35,18 @@
 
  <h3> Purpose and Description </h3> <i class="fa-solid fa-1"></i>
  
-<p align=justify> &nbsp;&nbsp;&nbsp;&nbsp; Fetch and Care app connects pet owners with dependable and trustworthy pet sitters in their local area. When pet owners are unable to care for their beloved animals themselves, our app offers a practical platform for them to locate skilled people. Users of the app may often look for pet sitters based on their area, availability, and particular needs for pet care. Additionally, it might have tools that help with communication between pet owners and sitters, like direct messaging capabilities, background checks, and customer reviews and ratings. Finally, the app makes it easier to discover and hire a qualified pet sitter, enabling pet owners to leave their pets in capable hands.
+<p align=justify> &nbsp;&nbsp;&nbsp;&nbsp; Fetch and Care app connects pet owners with dependable and trustworthy pet sitters in their local area. When pet owners are unable to care for their beloved animals themselves, our app offers a practical platform for them to locate skilled people. Users of the app may often look for pet sitters based on their area, availability, and particular needs for pet care. Additionally, it might have tools that help with communication between pet owners and sitters, like direct messaging capabilities, background checks, and customer reviews and ratings. Finally, the app makes it easier to discover and hire a qualified pet sitter, enabling pet owners to leave their pets in capable hands while they are away.
 
-##Significance of the Study
-The purpose of this application is to provide a Pet Sitter for the Furbabies. In order to achieve the goal, the proponents need to make an friendly user interface that will help the users easily find the best options that the app has been offering. This research is highly significant to the following recipients:
 
-Pet Owner. The study will benefit the pet owner as they can find someone to take care of their pets while they are gone. The application also allows the user to rate the pet sitter after the booking. 
+ <h3> Significance of the Study </h3> <i class="fa-solid fa-1"></i>
+ 
+<p align=justify> &nbsp;&nbsp;&nbsp;&nbsp;The purpose of this application is to provide a Pet Sitter for the Furbabies. In order to achieve the goal, the proponents need to make an friendly user interface that will help the users easily find the best options that the app has been offering. This research is highly significant to the following recipients:
 
-Pet Sitter. The Pet Sitter will benefit from this project because it will provide them work by taking care of the pets while the Fur parents are gone. This will also give them the opportunity to increase their trust ratings. 
+<p align=justify><b> &nbsp;&nbsp;&nbsp;&nbsp; Pet Owner.</b> The study will benefit the pet owner as they can find someone to take care of their pets while they are gone. The application also allows the user to rate the pet sitter after the booking. 
 
-Proponents. The developers of this application are able to benefit from the project because it helps them develop their abilities and intellect, which leads to the development of a more efficient and innovative application. Working together, the proponents have become better at working together and at managing their time to complete tasks that would result in positive outcomes.
-Future Researchers. This will benefit the future researchers as they can use the student as a reference. This will help them to make a more innovative and useful project.
+<p align=justify><b> &nbsp;&nbsp;&nbsp;&nbsp; Pet Sitter.</b>  The Pet Sitter will benefit from this project because it will provide them work by taking care of the pets while the Fur parents are gone. This will also give them the opportunity to increase their trust ratings. 
+
+<p align=justify><b> &nbsp;&nbsp;&nbsp;&nbsp; Proponents.</b> The developers of this application are able to benefit from the project because it helps them develop their abilities and intellect, which leads to the development of a more efficient and innovative application. Working together, the proponents have become better at working together and at managing their time to complete tasks that would result in positive outcomes.
+ 
+<p align=justify><b> &nbsp;&nbsp;&nbsp;&nbsp; Future Researchers.</b> This will benefit the future researchers as they can use the student as a reference. This will help them to make a more innovative and useful project.
 

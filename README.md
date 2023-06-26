@@ -37,6 +37,10 @@
  
 <p align=justify> &nbsp;&nbsp;&nbsp;&nbsp; Fetch and Care app connects pet owners with dependable and trustworthy pet sitters in their local area. When pet owners are unable to care for their beloved animals themselves, our app offers a practical platform for them to locate skilled people. Users of the app may often look for pet sitters based on their area, availability, and particular needs for pet care. Additionally, it might have tools that help with communication between pet owners and sitters, like direct messaging capabilities, background checks, and customer reviews and ratings. Finally, the app makes it easier to discover and hire a qualified pet sitter, enabling pet owners to leave their pets in capable hands while they are away.
 
+<p align=justify> &nbsp;&nbsp;&nbsp;&nbsp;The Fetch and Care app is a practical and user-friendly tool that links pet owners with dependable pet sitters in their neighborhood. With the help of this app, pet owners can quickly look for qualified pet sitters who can look after their furry friends while they're gone or unable to do so themselves. Pet owners may make educated judgments thanks to the app's thorough profiles of the pet sitters, which include information about their education, experience, and past clients' feedback. Users may choose from a variety of pet sitters, narrow down their search results based on criteria like pet kind, area, and availability, and even set up meet-and-greet meetings to check compatibility. The  app gives pet owners peace of mind by offering a wealth of features and an easy-to-use interface, ensuring that their cherished pets are cared for while they are away.
+
+
+
 
  <h3> Significance of the Study </h3> <i class="fa-solid fa-1"></i>
  

@@ -34,4 +34,5 @@
 ![sdg 12 grande en](https://github.com/yanishiii/Fetch-and-Care-A-Pet-Sitter-Finder-in-Ibaan-Batangas/assets/91609880/24dcba90-0a00-4fb4-89c4-3757afa25542)
 
  <h3> Purpose and Description </h3> <i class="fa-solid fa-1"></i>
-
+ 
+<p align=justify> &nbsp;&nbsp;&nbsp;&nbsp; Fetch and Care app connects pet owners with dependable and trustworthy pet sitters in their local area. When pet owners are unable to care for their beloved animals themselves, our app offers a practical platform for them to locate skilled people. Users of the app may often look for pet sitters based on their area, availability, and particular needs for pet care. Additionally, it might have tools that help with communication between pet owners and sitters, like direct messaging capabilities, background checks, and customer reviews and ratings. Finally, the app makes it easier to discover and hire a qualified pet sitter, enabling pet owners to leave their pets in capable hands.

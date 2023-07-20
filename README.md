@@ -57,6 +57,8 @@
 
 <h3> DEVELOPMENT MODEL </h3> <i class="fa-solid fa-1"></i>
 
+![image](https://github.com/yanishiii/Fetch-and-Care-A-Pet-Sitter-Finder/assets/113661252/9e93ce70-25dc-4c25-9eef-6ee611ff5b8c)
+
 <p align=justify><b> &nbsp;&nbsp;&nbsp;&nbsp; a.Requirements.</b> The first phase is the system requirements, which consist of the system's understanding, objective, and purpose in order to avoid complications during development. Moreover, the proponents gather information in order to meet the system's requirements. Planning was also carried out in order to identify goals and to fully understand them.
 
 <p align=justify><b> &nbsp;&nbsp;&nbsp;&nbsp; b.Design.</b> The phase of design is the specification document that was created to outline the technical requirements of the design. This phase will also improve the interface of the system. Furthermore, the proponents investigated the system's requirements in order to envision the system's operation and characteristics. Following that, the proponents outlined the system's design and incorporated what the system needs.

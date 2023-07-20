@@ -68,7 +68,3 @@
 
 <p align=justify><b> &nbsp;&nbsp;&nbsp;&nbsp; e.Deployment.</b> Once testing is done, the system is ready to undergo deployment. As a result, proponents are going to deploy the system once it has shown to be error-free and meets the system expectations and requirements.
 
-
-
-
-

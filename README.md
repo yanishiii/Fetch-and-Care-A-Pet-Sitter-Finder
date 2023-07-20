@@ -57,3 +57,18 @@
 
 <h3> DEVELOPMENT MODEL </h3> <i class="fa-solid fa-1"></i>
 
+
+<p align=justify><b> &nbsp;&nbsp;&nbsp;&nbsp; a.Requirements.</b> The first phase is the system requirements, which consist of the system's understanding, objective, and purpose in order to avoid complications during development. Moreover, the proponents gather information in order to meet the system's requirements. Planning was also carried out in order to identify goals and to fully understand them.
+
+<p align=justify><b> &nbsp;&nbsp;&nbsp;&nbsp; b.Design.</b> The phase of design is the specification document that was created to outline the technical requirements of the design. This phase will also improve the interface of the system. Furthermore, the proponents investigated the system's requirements in order to envision the system's operation and characteristics. Following that, the proponents outlined the system's design and incorporated what the system needs.
+
+<p align=justify><b> &nbsp;&nbsp;&nbsp;&nbsp; c.Development.</b> The development phase includes the making of the system by merging the ideas of the system requirements and design with a goal to meet all specified system criteria. In this phase, the proponents will combine their views on system requirements and design in order to code a functional system.
+
+<p align=justify><b> &nbsp;&nbsp;&nbsp;&nbsp; d.Testing.</b> The testing process includes testing and integrating the code to ensure that it functions properly. Its aim is to ensure that every component of the mobile application performs properly. Following development, the proponents will run and test the code to be able to find bugs and errors for improvement.
+
+<p align=justify><b> &nbsp;&nbsp;&nbsp;&nbsp; e.Deployment.</b> Once testing is done, the system is ready to undergo deployment. As a result, proponents are going to deploy the system once it has shown to be error-free and meets the system expectations and requirements.
+
+
+
+
+

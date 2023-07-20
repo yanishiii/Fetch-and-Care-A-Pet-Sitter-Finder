@@ -54,3 +54,6 @@
  
 <p align=justify><b> &nbsp;&nbsp;&nbsp;&nbsp; Future Researchers.</b> This will benefit the future researchers as they can use the student as a reference. This will help them to make a more innovative and useful project.
 
+
+<h3> DEVELOPMENT MODEL </h3> <i class="fa-solid fa-1"></i>
+![agile method](https://github.com/yanishiii/Fetch-and-Care-A-Pet-Sitter-Finder/assets/113661252/d5f710f4-fc08-4bdf-87da-c1cfe7b312eb)
